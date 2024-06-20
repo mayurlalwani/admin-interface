@@ -1,4 +1,3 @@
-import './App.css';
 import AdminInterface from './components/AdminInterface';
 
 function App() {
